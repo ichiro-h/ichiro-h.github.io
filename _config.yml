@@ -27,7 +27,7 @@ author:
   bio              : "PhD student working on Theory of Machine Learning"
   location         : "Toronto"
   employer         : "University of Toronto"
-  uri              : ichiro-h.github.io
+  #uri              : ichiro-h.github.io
   email            : "ichiro.hashimoto[@]mail.utoronto.ca" 
 
   # Academic websites
@@ -253,14 +253,14 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  #- scope:
+  #    path: ""
+  #    type: portfolio
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comment: true
   # _talks
   - scope:
       path: ""
