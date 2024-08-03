@@ -1,5 +1,5 @@
 ---
-title: "DoSS Summer Prep Bootcamp"
+title: "Probability, DoSS Summer Prep Bootcamp"
 collection: teaching
 type: "Instructor"
 permalink: /teaching/2023-summer-bootcamp-probability

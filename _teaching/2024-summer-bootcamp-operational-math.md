@@ -1,5 +1,5 @@
 ---
-title: "DoSS Summer Prep Bootcamp"
+title: "Operational Math, DoSS Summer Prep Bootcamp"
 collection: teaching
 type: "Instructor"
 permalink: /teaching/2024-summer-bootcamp-math
