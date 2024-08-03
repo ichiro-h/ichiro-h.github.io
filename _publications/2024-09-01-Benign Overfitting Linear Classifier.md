@@ -7,7 +7,7 @@ date: 'TBA'
 venue: 'TBA'
 slidesurl: 'http://ichiro-h.github.io/files/poster_Benign_Overfitting_with_Interpolating_Linear_Classifier.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'TBA'
+citation: ''
 ---
 
 This work establishes theoretical guarantee of benign overfitting of binary linear classification, identifies phase transition in the over-parametrized regime, and provides geometric intuition behind the surprising phenomenon.
