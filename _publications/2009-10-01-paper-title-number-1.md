@@ -1,7 +1,7 @@
 ---
 title: "Benign Overfitting With Interpolating Linear Classifier without Subgaussianity"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: %/publication/2009-10-01-paper-title-number-1
 excerpt: 'This work provides a more complete picture of benign overfitting phenomenon with interpolating linear classifier with non-subgaussian mixture models, establishing detailed conditions for benign overfitting to occur, identifying phase transition, and clarifying geometric intuition behind the phenomenon.'
 date: coming soon
 venue: TBA
