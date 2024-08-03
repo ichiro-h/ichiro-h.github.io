@@ -15,6 +15,9 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
 
+  - title: "日本語"
+    url: /japanese/
+
   - title: "CV"
     url: https://ichiro-h.github.io/files/CV-Ichiro-Hashimoto.pdf
 
