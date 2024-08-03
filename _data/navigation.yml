@@ -16,7 +16,7 @@ main:
   #  url: /year-archive/
 
   - title: "CV"
-    url: /cv/
+    url: https://ichiro-h.github.io/files/CV-Ichiro-Hashimoto.pdf
 
   #- title: "Guide"
   #  url: /markdown/
