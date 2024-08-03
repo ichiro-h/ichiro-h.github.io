@@ -3,7 +3,7 @@ title: "Benign Overfitting of Interpolating Linear Classifier with non-subGaussi
 collection: talks
 type: "Poster session"
 permalink: /talks/2024-08-08-poster
-venue: "Princeton Machine Learning Theory Summer School"
+venue: ["Princeton Machine Learning Theory Summer School"](https://mlschool.princeton.edu/)
 date: 2024-08-08
 location: "Princeton, NJ"
 ---
