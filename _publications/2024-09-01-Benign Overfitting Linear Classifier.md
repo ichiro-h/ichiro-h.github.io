@@ -6,7 +6,7 @@ excerpt: 'This work establishes theoretical guarantee of benign overfitting of b
 date: '2024-09-01'
 venue: 'TBA'
 slidesurl: 'http://ichiro-h.github.io/files/poster-Benign-Overfitting-Interpolating-Linear-Classifier.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: ''
 citation: ''
 ---
 
