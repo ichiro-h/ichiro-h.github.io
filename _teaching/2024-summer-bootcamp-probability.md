@@ -2,9 +2,9 @@
 title: "DoSS Summer Prep Bootcamp"
 collection: teaching
 type: "Instructor"
-permalink: /teaching/2023-summer-bootcamp-probability
+permalink: /teaching/2024-summer-bootcamp-probability
 venue: "University of Toronto"
-date: 2023-07-01
+date: 2024-07-01
 location: 
 ---
 
