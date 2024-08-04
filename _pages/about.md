@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Statistics at [Department of Statistical Sciences, University of Toronto](https://www.statistics.utoronto.ca/), where I am fortunate enough to be supervised by wonderful supervisors [Piotr Zwiernik](https://pzwiernik.github.io/) and [Stanilav Volgushev](https://utstat.toronto.edu/stanislav/WebPage_Publ.html). You can contact me via [email](ichiro.hashimoto[@]mail.utoronto.ca).
+I am a PhD student in Statistics at [Department of Statistical Sciences, University of Toronto](https://www.statistics.utoronto.ca/), where I am fortunate enough to be supervised by wonderful supervisors [Piotr Zwiernik](https://pzwiernik.github.io/) and [Stanilav Volgushev](https://utstat.toronto.edu/stanislav/WebPage_Publ.html). You can contact me via [email](ichiro.hashimoto@mail.utoronto.ca).
 
 I received my undergraduate education at University of Tokyo (Math major) and further obtained Master's degree (Mathematical Sciences) at Graduate School of Mathematical Sciences, The University of Tokyo, during which I studied complex geometry using techniques from partial differential equation and functional analysis.
 
