@@ -8,4 +8,4 @@ date: 2024-09-10
 location: "Centre De Recerca Matematica, Spain"
 ---
 
-[Poster]((https://ichiro-h.github.io/publication/2024-09-01-Benign-Overfitting-Linear-Classifier-number-1)) session @[MALT2024](https://www.crm.cat/mathematical-aspects-of-learning-theory/). 
+[Poster](https://ichiro-h.github.io/publication/2024-09-01-Benign-Overfitting-Linear-Classifier-number-1) session @[MALT2024](https://www.crm.cat/mathematical-aspects-of-learning-theory/). 
