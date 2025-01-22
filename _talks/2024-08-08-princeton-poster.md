@@ -8,4 +8,4 @@ date: 2024-08-08
 location: "Princeton, NJ"
 ---
 
-[Poster]((https://ichiro-h.github.io/publication/2024-09-01-Benign-Overfitting-Linear-Classifier-number-1)) session @[Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/). 
+[Poster](https://ichiro-h.github.io/publication/2024-09-01-Benign-Overfitting-Linear-Classifier-number-1) session @[Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/). 
