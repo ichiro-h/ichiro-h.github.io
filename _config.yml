@@ -24,14 +24,14 @@ author:
   avatar           : "profile.jpg"
   name             : "Ichiro Hashimoto"
   pronouns         : # example: "he/him"
-  bio              : "PhD student, Machine Learning Theory"
+  bio              : "PhD student, Statistics"
   location         : "Toronto"
-  employer         : "University of Toronto"
+  employer         : "Department of Statistical Sciences, University of Toronto"
   #uri              : ichiro-h.github.io
   email            : "ichiro.hashimoto@mail.utoronto.ca"
 
   # Academic websites
-  #arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/a/hashimoto_i_1.html" # URL - Update with the correct link to your profile
   #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   #impactstory      : # URL
   #orcid            : "http://orcid.org/yourorcidurl"
