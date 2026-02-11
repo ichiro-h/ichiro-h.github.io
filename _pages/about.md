@@ -9,8 +9,8 @@ redirect_from:
 
 ##  News
 
-- **[2026.02]** \CID{759} My [paper](https://arxiv.org/abs/2505.16204) accepted at **ICLR 2026**.
-- **[2025.01]** \CID{759} New [paper](https://www.arxiv.org/abs/2501.10538) uploaded to arXiv.
+- **[2026.02]** My [paper](https://arxiv.org/abs/2505.16204) accepted at **ICLR 2026**.
+- **[2025.01]** New [paper](https://www.arxiv.org/abs/2501.10538) uploaded to arXiv.
 
 I am a PhD student in Statistics at [Department of Statistical Sciences, University of Toronto](https://www.statistics.utoronto.ca/), where I am fortunate enough to be supervised by wonderful supervisors [Piotr Zwiernik](https://pzwiernik.github.io/) and [Stanislav Volgushev](https://utstat.toronto.edu/stanislav/WebPage_Publ.html). You can contact me via [email](mailto:ichiro.hashimoto@mail.utoronto.ca).
 
