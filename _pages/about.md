@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## \CID{1864} News
+##  News
 
 - **[2026.02]** \CID{759} My [paper](https://arxiv.org/abs/2505.16204) accepted at **ICLR 2026**.
 - **[2025.01]** \CID{759} New [paper](https://www.arxiv.org/abs/2501.10538) uploaded to arXiv.
