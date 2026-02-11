@@ -12,6 +12,8 @@ redirect_from:
 - **[2026.02]** My [paper](https://arxiv.org/abs/2505.16204) accepted at **ICLR 2026**.
 - **[2025.01]** New [paper](https://www.arxiv.org/abs/2501.10538) uploaded to arXiv.
 
+***
+
 I am a PhD student in Statistics at [Department of Statistical Sciences, University of Toronto](https://www.statistics.utoronto.ca/), where I am fortunate enough to be supervised by wonderful supervisors [Piotr Zwiernik](https://pzwiernik.github.io/) and [Stanislav Volgushev](https://utstat.toronto.edu/stanislav/WebPage_Publ.html). You can contact me via [email](mailto:ichiro.hashimoto@mail.utoronto.ca).
 
 I received my undergraduate education at University of Tokyo (Math major) and further obtained Master's degree (Mathematical Sciences) at Graduate School of Mathematical Sciences, The University of Tokyo, during which I studied complex geometry using techniques from partial differential equation and functional analysis.
