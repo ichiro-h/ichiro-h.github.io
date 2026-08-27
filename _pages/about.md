@@ -1,10 +1,10 @@
 ---
-permalink: /
 title: "Ichiro Hashimoto's Academic Personal Website"
+permalink: /
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+- /about/
+- /about.html
 ---
 
 ##  News
