@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 ##  News
-
+- **[2026.09]** My [paper](https://arxiv.org/abs/2609.32270) uploaded to arXiv.
 - **[2026.07]** My [paper](https://www.arxiv.org/abs/2501.10538) to appear in **Bernoulli**.
 - **[2026.02]** My [paper](https://arxiv.org/abs/2505.16204) accepted at **ICLR 2026**.
-- **[2025.01]** New [paper](https://www.arxiv.org/abs/2501.10538) uploaded to arXiv.
+
 
 ***
 
